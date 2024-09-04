@@ -1,0 +1,17 @@
+D:\Code\ColorGame\ColorGame\bin\Debug\net8.0-windows\ColorGame.exe
+D:\Code\ColorGame\ColorGame\bin\Debug\net8.0-windows\ColorGame.deps.json
+D:\Code\ColorGame\ColorGame\bin\Debug\net8.0-windows\ColorGame.runtimeconfig.json
+D:\Code\ColorGame\ColorGame\bin\Debug\net8.0-windows\ColorGame.dll
+D:\Code\ColorGame\ColorGame\bin\Debug\net8.0-windows\ColorGame.pdb
+D:\Code\ColorGame\ColorGame\obj\Debug\net8.0-windows\ColorGame.Form1.resources
+D:\Code\ColorGame\ColorGame\obj\Debug\net8.0-windows\ColorGame.Properties.Resources.resources
+D:\Code\ColorGame\ColorGame\obj\Debug\net8.0-windows\ColorGame.csproj.GenerateResource.cache
+D:\Code\ColorGame\ColorGame\obj\Debug\net8.0-windows\ColorGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\ColorGame\ColorGame\obj\Debug\net8.0-windows\ColorGame.AssemblyInfoInputs.cache
+D:\Code\ColorGame\ColorGame\obj\Debug\net8.0-windows\ColorGame.AssemblyInfo.cs
+D:\Code\ColorGame\ColorGame\obj\Debug\net8.0-windows\ColorGame.csproj.CoreCompileInputs.cache
+D:\Code\ColorGame\ColorGame\obj\Debug\net8.0-windows\ColorGame.dll
+D:\Code\ColorGame\ColorGame\obj\Debug\net8.0-windows\refint\ColorGame.dll
+D:\Code\ColorGame\ColorGame\obj\Debug\net8.0-windows\ColorGame.pdb
+D:\Code\ColorGame\ColorGame\obj\Debug\net8.0-windows\ColorGame.genruntimeconfig.cache
+D:\Code\ColorGame\ColorGame\obj\Debug\net8.0-windows\ref\ColorGame.dll
